@@ -108,7 +108,7 @@ O objetivo é **praticar o uso de float, display (inline, block e inline-block) 
 - As imagens devem ser colocadas próximas aos títulos dos pratos correspondentes.
 - O menu lateral deve ser posicionado usando **float**.
 - O conteúdo principal deve respeitar margens e espaçamentos do Box Model.
-- Usar tags semânticas do HTML5:
+- Usar tags semânticas do HTML5 "sugestão":
   - `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`
 
 ---
