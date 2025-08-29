@@ -91,11 +91,11 @@ O objetivo é **praticar o uso de float, display (inline, block e inline-block) 
    - Foto de entradas: `foto-entradas.jpg`
     ![Entradas](./img/foto-entradas.jpg)
    - Foto de prato principal: `foto-ppal.jpg`
-    ![Entradas](./img/foto-ppal.jpg)
+    ![Principal](./img/foto-ppal.jpg)
    - Foto de sobremesa: `foto-postre.jpg`
-    ![Entradas](./img/foto-postre.jpg.jpg)
+    ![Sobremesa](./img/foto-postre.jpg)
    - Mockup para referência do layout: `mockup-carta.png`
-    ![Entradas](./img/mockup-carta.png)
+    ![Mockup](./img/mockup-carta.png)
 
 ---
 
