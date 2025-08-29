@@ -9,8 +9,8 @@ O objetivo é **praticar o uso de float, display (inline, block e inline-block) 
 
 1. **Estrutura da Página**
    - Usar a logo do restaurante: `logo-web.png`
-   - Criar um cabeçalho com:
-     - Logo
+   - 
+     - Logo(confonforme monkup)
      - Nome do restaurante
      - Menu de navegação lateral 
    - Criar uma seção principal para o **conteúdo do cardápio**.
