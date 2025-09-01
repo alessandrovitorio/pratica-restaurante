@@ -22,8 +22,8 @@ O objetivo é **praticar o uso de float, display (inline, block e inline-block) 
 
 2. **Conteúdo do Cardápio**
    - O cardápio será dividido em **Entradas**, **Pratos principais** e **Sobremesas**.
-   - Cada seção deve ser criada com `<section>` e um título `<h2>`.
-   - Os pratos devem ser listados com título `<h3>` e descrição `<p>`.
+   - Cada seção deve ser criada com `<section>` e um sub-título `<h...>`.
+   - Os pratos devem ser listados com sub-título `<h...>` e descrição `<p>`.
 
    ### Entradas
    - Tiras de Mussarela  
